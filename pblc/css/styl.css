@@ -1,0 +1,52 @@
+/*Buat custom font family pada menu*/
+
+@font-face {
+    font-family: 'font_menu';
+    src: url("../fonts/Sqr721bi.ttf") format('truetype');
+}
+/*Buat custom font family pada konten*/
+
+@font-face {
+    font-family: 'font_konten';
+    src: url("../fonts/Andale_Mono.ttf") format('truetype');
+}
+
+.navbar {
+    background-color: #5A5A5A;
+    height: 55px;
+}
+
+.cover {
+    padding-top: 55px;
+    text-align: center;
+}
+
+.logoin {
+    height: 55px;
+    width: auto;
+}
+
+.header {
+    height: 55px;
+    width: 815px;
+    margin: 0 auto;
+}
+
+.list-menu {
+    position: relative;
+    top: 10%;
+}
+
+.list-menu li a {
+    font-family: 'font_menu';
+    color: white;
+}
+
+.list-menu li a:hover {
+    background-color: darkgrey;
+}
+
+.content {
+    height: 815px;
+    width: auto;
+}
