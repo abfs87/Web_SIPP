@@ -16,14 +16,10 @@
     height: 55px;
 }
 
-.cover {
-    padding-top: 55px;
-    text-align: center;
-}
-
 .logoin {
-    color: white;
-    height: 55px;
+    background-image: url("../img/logos.png");
+    background-repeat: no-repeat;
+    height: 33px;
     width: auto;
 }
 
@@ -47,7 +43,29 @@
     background-color: darkgrey;
 }
 
-.content {
-    height: 815px;
-    width: auto;
+.formenu {
+    padding-top: 8px;
 }
+
+.content {
+    padding-top: 55px;
+}
+
+.sampul {
+    background-image: url("../img/cover.jpg");
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 815px;
+    margin: 0 auto;
+}
+
+.profil {
+    width: 815px;
+    margin: 0 auto;
+}
+
+.forlogo {
+    padding-top: 11px;
+    padding-left: 0;
+}
+
