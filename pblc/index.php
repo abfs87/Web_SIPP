@@ -52,7 +52,26 @@
 
             </div>
             <div class="profil">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, tenetur perferendis, minus ipsa consectetur quidem laboriosam et corrupti, placeat quia velit amet provident nesciunt impedit explicabo expedita illo! Sapiente, laboriosam.</p>
+                <div class="profil-title">
+                    Tentang Kami
+                </div>
+                <div class="profil-item">
+                <div class="col-xs-4 col-md-2 strong">
+                    strong
+                </div>
+                <div class="col-xs-4 col-md-2 speed">
+                    speed
+                </div>
+                <div class="col-xs-5 col-md-3 sipp-main">
+                    main
+                </div>
+                <div class="col-xs-4 col-md-2 flow">
+                    flow
+                </div>
+                <div class="col-xs-4 col-md-2 philo">
+                    philo
+                </div>
+                </div>
             </div>
         </div>
         

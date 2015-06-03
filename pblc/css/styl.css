@@ -43,12 +43,13 @@
     background-color: darkgrey;
 }
 
-.formenu {
-    padding-top: 8px;
+.forlogo {
+    padding-top: 11px;
+    padding-left: 0;
 }
 
-.content {
-    padding-top: 55px;
+.formenu {
+    padding-top: 8px;
 }
 
 .sampul {
@@ -60,12 +61,63 @@
 }
 
 .profil {
+    padding: 0;
     width: 815px;
+    height: 845px;
     margin: 0 auto;
+    background-color: lightgray;
 }
 
-.forlogo {
-    padding-top: 11px;
-    padding-left: 0;
+.profil-title {
+    padding: 80px 0 0 0;
+    text-align: center;
+    font-size: 17pt;
+    font-family: 'font_konten';
 }
 
+.profil-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    width: 815px;
+    height: 300px;
+    text-align: center;
+    
+}
+
+.strong {
+    padding: 0;
+    margin-right: 10px;
+    margin-left: 13px;
+    
+}
+
+.speed {
+    padding: 0;
+    margin: 0 6px 0 3px;
+    
+}
+
+.sipp-main {
+    padding: 0;
+    margin: 0;
+    
+}
+
+.flow {
+    padding: 0;
+    margin: 0 3px 0 6px;
+    
+}
+
+.philo {
+    padding: 0;
+    margin-left: 10px;
+    margin-right: 13px;
+    
+}
+
+.content {
+    padding-top: 55px;
+}
