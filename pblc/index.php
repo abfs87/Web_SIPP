@@ -58,13 +58,13 @@
                 </div>
                 <div class="profil-item">
                     <div class="col-xs-4 col-md-2 strong">
-                        strong
+                        <img src="img/strong.png" class="img_strong">
                     </div>
                     <div class="col-xs-4 col-md-2 speed">
-                        speed
+                        <img src="img/speed.png" class="img_speed">
                     </div>
                     <div class="col-xs-5 col-md-3 sipp-main">
-                        main
+                        <img src="img/logo-main.png" class="img_main">
                     </div>
                     <div class="col-xs-4 col-md-2 flow">
                         flow
